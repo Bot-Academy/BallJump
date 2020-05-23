@@ -1,2 +1,3 @@
-# BallJump
-Unity project using the ML-Agents toolkit
+![Thumbnail](thumbnail.jpg)
+
+Video Link: https://youtu.be/oxIljzj9JgQ
