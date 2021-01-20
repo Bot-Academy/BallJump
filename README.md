@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://youtu.be/oxIljzj9JgQ"><img src="https://raw.githubusercontent.com/Bot-Academy/BallJump/master/thumbnail.jpg"></a>
+    <a href="https://youtu.be/oxIljzj9JgQ" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/Bot-Academy/BallJump/master/thumbnail.jpg"></a>
     <br />
     <br />
     <a href="http://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat" alt="MIT License"></a>
