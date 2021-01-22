@@ -3,7 +3,7 @@
     <br />
     <br />
     <a href="http://choosealicense.com/licenses/mit/"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat" alt="MIT License"></a>
-    <a href="https://twitter.com/bot_academy/"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40bot_academy" alt="Twitter">
+    <a href="https://twitter.com/bot_academy/"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40bot_academy" alt="Twitter"></a>
     <br />
     <br />
     <i>Unity project using the ML-Agents toolkit</i>
